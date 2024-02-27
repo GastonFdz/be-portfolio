@@ -1,7 +1,7 @@
 # Precentacion
 
-Portfolio es un proyecto para mostrar mi experiencia y forma de trabajo 
-Este es el backend del proyecto
+Portfolio es un proyecto para mostrar mi experiencia y forma de trabajo. 
+Este es el backend del proyecto. 
 Este se divide en 4 secciones principales:
 
     1) About Me: este es mi CV donde muestro datos de contacto vinculando con distintas apps de mensajeria y redes sociales, experiencias, conocimientos y formacion academica
