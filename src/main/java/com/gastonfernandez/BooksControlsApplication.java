@@ -8,7 +8,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @SpringBootApplication
 @Slf4j
-@ComponentScan("com.gastonfernandez")
+@ComponentScan("com.gastonfernandez.tests")
 public class BooksControlsApplication {
 
 	public static void main(String[] args) {

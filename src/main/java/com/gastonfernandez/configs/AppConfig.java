@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.web.client.RestTemplate;
 
 
-@EnableJpaRepositories("com.gastonfernandez.repositories")
+@EnableJpaRepositories("com.gastonfernandez.tests.repositories")
 @Configuration
 public class AppConfig {
     @Bean
