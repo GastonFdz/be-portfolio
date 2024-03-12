@@ -11,24 +11,23 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 
-import com.gastonfernandez.services.SendMail;
+import com.gastonfernandez.services.SendMailService;
 
 public class SendMailTest {
 	@Mock
-	private SendMail mockServicio;
+	private SendMailService mockServicio;
 
 	/*
-	 @InjectMocks private MiServicioImpl servicio;
-	 
+	@InjectMocks private MiServicioImpl servicio;
 
 	@BeforeEach
 	public void setUp() {
-	  MockitoAnnotations.initMocks(this);
+		MockitoAnnotations.initMocks(this);
 	}
 	*/
 
 	@Test
 	void sendMailTest() {
-		
+
 	}
 }

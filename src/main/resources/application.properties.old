@@ -5,13 +5,6 @@ spring.datasource.url=jdbc:mysql://localhost:3306/books
 spring.datasource.username=root
 spring.datasource.password=S0mbr3r0#Ncc1701a
 
-#configuracion para aws
-cloud.aws.credentials.accessKey=AKIAV6JOWGI5PT5QCH5G
-cloud.aws.credentials.secretKey=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
-cloud.aws.region.static=us-east-1
-
-milTo = gaston.fernandez@yahoo.com
-
 #JPA
 spring.jpa.properties.hibernate.packagesToScan=com.gastonfernandez.models
 spring.jpa.properties.hibernate.cache.use_second_level_cache=false
